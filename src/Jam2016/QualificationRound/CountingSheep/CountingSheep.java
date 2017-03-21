@@ -1,4 +1,4 @@
-package Jam2016.QualificationRound;
+package Jam2016.QualificationRound.CountingSheep;
 
 import java.util.ArrayList;
 import java.util.Arrays;
